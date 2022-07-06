@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "WpfAppLabb4/1.0.0": {
+        "runtime": {
+          "WpfAppLabb4.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "WpfAppLabb4/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

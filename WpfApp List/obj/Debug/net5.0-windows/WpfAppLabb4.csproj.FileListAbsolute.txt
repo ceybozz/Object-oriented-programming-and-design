@@ -1,0 +1,89 @@
+C:\Users\ceybo\Desktop\School\GIK2F7 Object programing\WpfAppLabb4\bin\Debug\net5.0-windows\WpfAppLabb4.exe
+C:\Users\ceybo\Desktop\School\GIK2F7 Object programing\WpfAppLabb4\bin\Debug\net5.0-windows\WpfAppLabb4.deps.json
+C:\Users\ceybo\Desktop\School\GIK2F7 Object programing\WpfAppLabb4\bin\Debug\net5.0-windows\WpfAppLabb4.runtimeconfig.json
+C:\Users\ceybo\Desktop\School\GIK2F7 Object programing\WpfAppLabb4\bin\Debug\net5.0-windows\WpfAppLabb4.runtimeconfig.dev.json
+C:\Users\ceybo\Desktop\School\GIK2F7 Object programing\WpfAppLabb4\bin\Debug\net5.0-windows\WpfAppLabb4.dll
+C:\Users\ceybo\Desktop\School\GIK2F7 Object programing\WpfAppLabb4\bin\Debug\net5.0-windows\ref\WpfAppLabb4.dll
+C:\Users\ceybo\Desktop\School\GIK2F7 Object programing\WpfAppLabb4\bin\Debug\net5.0-windows\WpfAppLabb4.pdb
+C:\Users\ceybo\Desktop\School\GIK2F7 Object programing\WpfAppLabb4\obj\Debug\net5.0-windows\App.g.cs
+C:\Users\ceybo\Desktop\School\GIK2F7 Object programing\WpfAppLabb4\obj\Debug\net5.0-windows\WpfAppLabb4_MarkupCompile.cache
+C:\Users\ceybo\Desktop\School\GIK2F7 Object programing\WpfAppLabb4\obj\Debug\net5.0-windows\WpfAppLabb4_MarkupCompile.lref
+C:\Users\ceybo\Desktop\School\GIK2F7 Object programing\WpfAppLabb4\obj\Debug\net5.0-windows\WpfAppLabb4.g.resources
+C:\Users\ceybo\Desktop\School\GIK2F7 Object programing\WpfAppLabb4\obj\Debug\net5.0-windows\WpfAppLabb4.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ceybo\Desktop\School\GIK2F7 Object programing\WpfAppLabb4\obj\Debug\net5.0-windows\WpfAppLabb4.AssemblyInfoInputs.cache
+C:\Users\ceybo\Desktop\School\GIK2F7 Object programing\WpfAppLabb4\obj\Debug\net5.0-windows\WpfAppLabb4.AssemblyInfo.cs
+C:\Users\ceybo\Desktop\School\GIK2F7 Object programing\WpfAppLabb4\obj\Debug\net5.0-windows\WpfAppLabb4.csproj.CoreCompileInputs.cache
+C:\Users\ceybo\Desktop\School\GIK2F7 Object programing\WpfAppLabb4\obj\Debug\net5.0-windows\WpfAppLabb4.dll
+C:\Users\ceybo\Desktop\School\GIK2F7 Object programing\WpfAppLabb4\obj\Debug\net5.0-windows\ref\WpfAppLabb4.dll
+C:\Users\ceybo\Desktop\School\GIK2F7 Object programing\WpfAppLabb4\obj\Debug\net5.0-windows\WpfAppLabb4.pdb
+C:\Users\ceybo\Desktop\School\GIK2F7 Object programing\WpfAppLabb4\obj\Debug\net5.0-windows\WpfAppLabb4.genruntimeconfig.cache
+C:\Users\ceybo\Desktop\School\GIK2F7 Object programing\Labb4\WpfAppLabb4\bin\Debug\net5.0-windows\WpfAppLabb4.exe
+C:\Users\ceybo\Desktop\School\GIK2F7 Object programing\Labb4\WpfAppLabb4\bin\Debug\net5.0-windows\WpfAppLabb4.deps.json
+C:\Users\ceybo\Desktop\School\GIK2F7 Object programing\Labb4\WpfAppLabb4\bin\Debug\net5.0-windows\WpfAppLabb4.runtimeconfig.json
+C:\Users\ceybo\Desktop\School\GIK2F7 Object programing\Labb4\WpfAppLabb4\bin\Debug\net5.0-windows\WpfAppLabb4.runtimeconfig.dev.json
+C:\Users\ceybo\Desktop\School\GIK2F7 Object programing\Labb4\WpfAppLabb4\bin\Debug\net5.0-windows\WpfAppLabb4.dll
+C:\Users\ceybo\Desktop\School\GIK2F7 Object programing\Labb4\WpfAppLabb4\bin\Debug\net5.0-windows\ref\WpfAppLabb4.dll
+C:\Users\ceybo\Desktop\School\GIK2F7 Object programing\Labb4\WpfAppLabb4\bin\Debug\net5.0-windows\WpfAppLabb4.pdb
+C:\Users\ceybo\Desktop\School\GIK2F7 Object programing\Labb4\WpfAppLabb4\obj\Debug\net5.0-windows\WpfAppLabb4.csproj.AssemblyReference.cache
+C:\Users\ceybo\Desktop\School\GIK2F7 Object programing\Labb4\WpfAppLabb4\obj\Debug\net5.0-windows\MainWindow.g.cs
+C:\Users\ceybo\Desktop\School\GIK2F7 Object programing\Labb4\WpfAppLabb4\obj\Debug\net5.0-windows\App.g.cs
+C:\Users\ceybo\Desktop\School\GIK2F7 Object programing\Labb4\WpfAppLabb4\obj\Debug\net5.0-windows\WpfAppLabb4_MarkupCompile.cache
+C:\Users\ceybo\Desktop\School\GIK2F7 Object programing\Labb4\WpfAppLabb4\obj\Debug\net5.0-windows\WpfAppLabb4_MarkupCompile.lref
+C:\Users\ceybo\Desktop\School\GIK2F7 Object programing\Labb4\WpfAppLabb4\obj\Debug\net5.0-windows\WpfAppLabb4.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ceybo\Desktop\School\GIK2F7 Object programing\Labb4\WpfAppLabb4\obj\Debug\net5.0-windows\WpfAppLabb4.AssemblyInfoInputs.cache
+C:\Users\ceybo\Desktop\School\GIK2F7 Object programing\Labb4\WpfAppLabb4\obj\Debug\net5.0-windows\WpfAppLabb4.AssemblyInfo.cs
+C:\Users\ceybo\Desktop\School\GIK2F7 Object programing\Labb4\WpfAppLabb4\obj\Debug\net5.0-windows\WpfAppLabb4.csproj.CoreCompileInputs.cache
+C:\Users\ceybo\Desktop\School\GIK2F7 Object programing\Labb4\WpfAppLabb4\obj\Debug\net5.0-windows\WpfAppLabb4.dll
+C:\Users\ceybo\Desktop\School\GIK2F7 Object programing\Labb4\WpfAppLabb4\obj\Debug\net5.0-windows\ref\WpfAppLabb4.dll
+C:\Users\ceybo\Desktop\School\GIK2F7 Object programing\Labb4\WpfAppLabb4\obj\Debug\net5.0-windows\WpfAppLabb4.pdb
+C:\Users\ceybo\Desktop\School\GIK2F7 Object programing\Labb4\WpfAppLabb4\obj\Debug\net5.0-windows\WpfAppLabb4.genruntimeconfig.cache
+C:\Users\ceybo\Desktop\School\GIK2F7 Object programing\WpfAppLabb4\obj\Debug\net5.0-windows\Views\MainWindow.g.cs
+C:\Users\ceybo\Desktop\School\GIK2F7 Object programing\WpfAppLabb4\obj\Debug\net5.0-windows\Views\MainWindow.baml
+C:\Users\ceybo\Desktop\School\GIK2F7 Object programing\WpfAppLabb4\obj\Debug\net5.0-windows\WpfAppLabb4.csproj.AssemblyReference.cache
+C:\Users\ceybo\Desktop\School\GIK2F7 Object programing\WpfAppLabb4\obj\Debug\net5.0-windows\GeneratedInternalTypeHelper.g.cs
+C:\Users\ceybo\Desktop\School\C#\WpfAppLabb4\bin\Debug\net5.0-windows\WpfAppLabb4.exe
+C:\Users\ceybo\Desktop\School\C#\WpfAppLabb4\bin\Debug\net5.0-windows\WpfAppLabb4.deps.json
+C:\Users\ceybo\Desktop\School\C#\WpfAppLabb4\bin\Debug\net5.0-windows\WpfAppLabb4.runtimeconfig.json
+C:\Users\ceybo\Desktop\School\C#\WpfAppLabb4\bin\Debug\net5.0-windows\WpfAppLabb4.runtimeconfig.dev.json
+C:\Users\ceybo\Desktop\School\C#\WpfAppLabb4\bin\Debug\net5.0-windows\WpfAppLabb4.dll
+C:\Users\ceybo\Desktop\School\C#\WpfAppLabb4\bin\Debug\net5.0-windows\ref\WpfAppLabb4.dll
+C:\Users\ceybo\Desktop\School\C#\WpfAppLabb4\bin\Debug\net5.0-windows\WpfAppLabb4.pdb
+C:\Users\ceybo\Desktop\School\C#\WpfAppLabb4\obj\Debug\net5.0-windows\WpfAppLabb4.csproj.AssemblyReference.cache
+C:\Users\ceybo\Desktop\School\C#\WpfAppLabb4\obj\Debug\net5.0-windows\Views\MainWindow.g.cs
+C:\Users\ceybo\Desktop\School\C#\WpfAppLabb4\obj\Debug\net5.0-windows\App.g.cs
+C:\Users\ceybo\Desktop\School\C#\WpfAppLabb4\obj\Debug\net5.0-windows\GeneratedInternalTypeHelper.g.cs
+C:\Users\ceybo\Desktop\School\C#\WpfAppLabb4\obj\Debug\net5.0-windows\WpfAppLabb4_MarkupCompile.cache
+C:\Users\ceybo\Desktop\School\C#\WpfAppLabb4\obj\Debug\net5.0-windows\WpfAppLabb4_MarkupCompile.lref
+C:\Users\ceybo\Desktop\School\C#\WpfAppLabb4\obj\Debug\net5.0-windows\Views\MainWindow.baml
+C:\Users\ceybo\Desktop\School\C#\WpfAppLabb4\obj\Debug\net5.0-windows\WpfAppLabb4.g.resources
+C:\Users\ceybo\Desktop\School\C#\WpfAppLabb4\obj\Debug\net5.0-windows\WpfAppLabb4.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ceybo\Desktop\School\C#\WpfAppLabb4\obj\Debug\net5.0-windows\WpfAppLabb4.AssemblyInfoInputs.cache
+C:\Users\ceybo\Desktop\School\C#\WpfAppLabb4\obj\Debug\net5.0-windows\WpfAppLabb4.AssemblyInfo.cs
+C:\Users\ceybo\Desktop\School\C#\WpfAppLabb4\obj\Debug\net5.0-windows\WpfAppLabb4.csproj.CoreCompileInputs.cache
+C:\Users\ceybo\Desktop\School\C#\WpfAppLabb4\obj\Debug\net5.0-windows\WpfAppLabb4.dll
+C:\Users\ceybo\Desktop\School\C#\WpfAppLabb4\obj\Debug\net5.0-windows\ref\WpfAppLabb4.dll
+C:\Users\ceybo\Desktop\School\C#\WpfAppLabb4\obj\Debug\net5.0-windows\WpfAppLabb4.pdb
+C:\Users\ceybo\Desktop\School\C#\WpfAppLabb4\obj\Debug\net5.0-windows\WpfAppLabb4.genruntimeconfig.cache
+D:\School\C#\WpfAppLabb4\obj\Debug\net5.0-windows\WpfAppLabb4.csproj.AssemblyReference.cache
+D:\School\C#\WpfAppLabb4\obj\Debug\net5.0-windows\Views\MainWindow.g.cs
+D:\School\C#\WpfAppLabb4\obj\Debug\net5.0-windows\App.g.cs
+D:\School\C#\WpfAppLabb4\obj\Debug\net5.0-windows\GeneratedInternalTypeHelper.g.cs
+D:\School\C#\WpfAppLabb4\obj\Debug\net5.0-windows\WpfAppLabb4_MarkupCompile.cache
+D:\School\C#\WpfAppLabb4\obj\Debug\net5.0-windows\WpfAppLabb4_MarkupCompile.lref
+D:\School\C#\WpfAppLabb4\obj\Debug\net5.0-windows\WpfAppLabb4.dll
+D:\School\C#\WpfAppLabb4\obj\Debug\net5.0-windows\ref\WpfAppLabb4.dll
+D:\School\C#\WpfAppLabb4\obj\Debug\net5.0-windows\WpfAppLabb4.pdb
+D:\School\C#\WpfAppLabb4\bin\Debug\net5.0-windows\WpfAppLabb4.exe
+D:\School\C#\WpfAppLabb4\bin\Debug\net5.0-windows\WpfAppLabb4.deps.json
+D:\School\C#\WpfAppLabb4\bin\Debug\net5.0-windows\WpfAppLabb4.runtimeconfig.json
+D:\School\C#\WpfAppLabb4\bin\Debug\net5.0-windows\WpfAppLabb4.runtimeconfig.dev.json
+D:\School\C#\WpfAppLabb4\bin\Debug\net5.0-windows\WpfAppLabb4.dll
+D:\School\C#\WpfAppLabb4\bin\Debug\net5.0-windows\ref\WpfAppLabb4.dll
+D:\School\C#\WpfAppLabb4\bin\Debug\net5.0-windows\WpfAppLabb4.pdb
+D:\School\C#\WpfAppLabb4\obj\Debug\net5.0-windows\Views\MainWindow.baml
+D:\School\C#\WpfAppLabb4\obj\Debug\net5.0-windows\WpfAppLabb4.g.resources
+D:\School\C#\WpfAppLabb4\obj\Debug\net5.0-windows\WpfAppLabb4.GeneratedMSBuildEditorConfig.editorconfig
+D:\School\C#\WpfAppLabb4\obj\Debug\net5.0-windows\WpfAppLabb4.AssemblyInfoInputs.cache
+D:\School\C#\WpfAppLabb4\obj\Debug\net5.0-windows\WpfAppLabb4.AssemblyInfo.cs
+D:\School\C#\WpfAppLabb4\obj\Debug\net5.0-windows\WpfAppLabb4.csproj.CoreCompileInputs.cache
+D:\School\C#\WpfAppLabb4\obj\Debug\net5.0-windows\WpfAppLabb4.genruntimeconfig.cache

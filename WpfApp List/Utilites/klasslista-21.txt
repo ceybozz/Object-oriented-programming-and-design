@@ -1,0 +1,8 @@
+Användarnamn Förnamn Efternamn E-post
+
+h11criro Cristiano 	Ronaldo 	h11criro@du.se
+h14ceybo Ceyhun 	Bozkurt 	h14ceybo@du.se
+h16liome Lionel 	Messi 	h16liome@du.se
+h16nikte Nikola 	Tesla 	h16nikte@du.se
+h172pash 2pac 	Shakur 	h172pash@du.se
+h17bigsm Biggie 	Smalls 	h17bigsm@du.se

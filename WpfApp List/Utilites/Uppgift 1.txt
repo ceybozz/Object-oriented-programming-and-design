@@ -1,0 +1,11 @@
+Uppgift 1
+Redogör vad man använder generiska klasser och metoder till och beskriv vilka fördelar och 
+nackdelar det kan medföra. Beskriv ett scenario där en programlösning skulle kunna dra nytta av att 
+använda en generisk klass. Utgå från en egen vald problemställning och beskriv dina tankegångar?
+
+Generics tillåter dig att definera en specific data typ av programerings element i en class eller method, tills den faktiskt använnds i programet dvs.-
+generics tillåte dig att skriva en klass eller method som kan arbeta med vilken data typ som helst.
+
+exempel om man skapar up en lista List<T> då har man chansen att skapa en lista med en specifik data typ som exempel List<int> då har man skapat en lista-
+med int's och kan bara innehålla int's. och man får compailer error om listan innehåller annat än int's.
+och man hoppar över att definera sin T i listan så får man ingen compailer error om man blandar med int's och strings eller flera vilket är en nackdel.
