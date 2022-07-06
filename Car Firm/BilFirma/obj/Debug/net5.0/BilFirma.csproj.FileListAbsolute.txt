@@ -1,0 +1,32 @@
+C:\Users\ceybo\Desktop\School\GIK2F7 Object programing\BilFirma\bin\Debug\net5.0\BilFirma.exe
+C:\Users\ceybo\Desktop\School\GIK2F7 Object programing\BilFirma\bin\Debug\net5.0\BilFirma.deps.json
+C:\Users\ceybo\Desktop\School\GIK2F7 Object programing\BilFirma\bin\Debug\net5.0\BilFirma.runtimeconfig.json
+C:\Users\ceybo\Desktop\School\GIK2F7 Object programing\BilFirma\bin\Debug\net5.0\BilFirma.runtimeconfig.dev.json
+C:\Users\ceybo\Desktop\School\GIK2F7 Object programing\BilFirma\bin\Debug\net5.0\BilFirma.dll
+C:\Users\ceybo\Desktop\School\GIK2F7 Object programing\BilFirma\bin\Debug\net5.0\ref\BilFirma.dll
+C:\Users\ceybo\Desktop\School\GIK2F7 Object programing\BilFirma\bin\Debug\net5.0\BilFirma.pdb
+C:\Users\ceybo\Desktop\School\GIK2F7 Object programing\BilFirma\obj\Debug\net5.0\BilFirma.csproj.AssemblyReference.cache
+C:\Users\ceybo\Desktop\School\GIK2F7 Object programing\BilFirma\obj\Debug\net5.0\BilFirma.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ceybo\Desktop\School\GIK2F7 Object programing\BilFirma\obj\Debug\net5.0\BilFirma.AssemblyInfoInputs.cache
+C:\Users\ceybo\Desktop\School\GIK2F7 Object programing\BilFirma\obj\Debug\net5.0\BilFirma.AssemblyInfo.cs
+C:\Users\ceybo\Desktop\School\GIK2F7 Object programing\BilFirma\obj\Debug\net5.0\BilFirma.csproj.CoreCompileInputs.cache
+C:\Users\ceybo\Desktop\School\GIK2F7 Object programing\BilFirma\obj\Debug\net5.0\BilFirma.dll
+C:\Users\ceybo\Desktop\School\GIK2F7 Object programing\BilFirma\obj\Debug\net5.0\ref\BilFirma.dll
+C:\Users\ceybo\Desktop\School\GIK2F7 Object programing\BilFirma\obj\Debug\net5.0\BilFirma.pdb
+C:\Users\ceybo\Desktop\School\GIK2F7 Object programing\BilFirma\obj\Debug\net5.0\BilFirma.genruntimeconfig.cache
+C:\Users\ceybo\Desktop\School\GIK2F7 Object programing\Labb 3\BilFirma\bin\Debug\net5.0\BilFirma.exe
+C:\Users\ceybo\Desktop\School\GIK2F7 Object programing\Labb 3\BilFirma\bin\Debug\net5.0\BilFirma.deps.json
+C:\Users\ceybo\Desktop\School\GIK2F7 Object programing\Labb 3\BilFirma\bin\Debug\net5.0\BilFirma.runtimeconfig.json
+C:\Users\ceybo\Desktop\School\GIK2F7 Object programing\Labb 3\BilFirma\bin\Debug\net5.0\BilFirma.runtimeconfig.dev.json
+C:\Users\ceybo\Desktop\School\GIK2F7 Object programing\Labb 3\BilFirma\bin\Debug\net5.0\BilFirma.dll
+C:\Users\ceybo\Desktop\School\GIK2F7 Object programing\Labb 3\BilFirma\bin\Debug\net5.0\ref\BilFirma.dll
+C:\Users\ceybo\Desktop\School\GIK2F7 Object programing\Labb 3\BilFirma\bin\Debug\net5.0\BilFirma.pdb
+C:\Users\ceybo\Desktop\School\GIK2F7 Object programing\Labb 3\BilFirma\obj\Debug\net5.0\BilFirma.csproj.AssemblyReference.cache
+C:\Users\ceybo\Desktop\School\GIK2F7 Object programing\Labb 3\BilFirma\obj\Debug\net5.0\BilFirma.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ceybo\Desktop\School\GIK2F7 Object programing\Labb 3\BilFirma\obj\Debug\net5.0\BilFirma.AssemblyInfoInputs.cache
+C:\Users\ceybo\Desktop\School\GIK2F7 Object programing\Labb 3\BilFirma\obj\Debug\net5.0\BilFirma.AssemblyInfo.cs
+C:\Users\ceybo\Desktop\School\GIK2F7 Object programing\Labb 3\BilFirma\obj\Debug\net5.0\BilFirma.csproj.CoreCompileInputs.cache
+C:\Users\ceybo\Desktop\School\GIK2F7 Object programing\Labb 3\BilFirma\obj\Debug\net5.0\BilFirma.dll
+C:\Users\ceybo\Desktop\School\GIK2F7 Object programing\Labb 3\BilFirma\obj\Debug\net5.0\ref\BilFirma.dll
+C:\Users\ceybo\Desktop\School\GIK2F7 Object programing\Labb 3\BilFirma\obj\Debug\net5.0\BilFirma.pdb
+C:\Users\ceybo\Desktop\School\GIK2F7 Object programing\Labb 3\BilFirma\obj\Debug\net5.0\BilFirma.genruntimeconfig.cache
